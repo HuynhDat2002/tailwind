@@ -25,6 +25,9 @@ module.exports = {
       animation:{
         slideDown:'slideDown 0.7s ease-in-out',
         fadeIn:'fadeIn .7s ease-in-out'
+      },
+      screens:{
+        'xs':'480px'
       }
     },
   },
